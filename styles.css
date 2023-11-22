@@ -1,0 +1,32 @@
+body{
+    background: #cce898;
+
+}
+
+.container{
+    text-align: center;
+    background-color: #FEFAE0;
+    position: absolute;
+    top: 30%;
+    left: 35%;
+    border-radius: 30px;
+}
+
+
+.timerBtn{
+    width: 80px;
+    height: 40px;
+    border: 2px solid #b5f160;
+    background-color: #9bd04c;
+    cursor: pointer;
+    border-radius: 10px;
+    margin-bottom: 30px;
+    font-size: 20px;
+}
+
+#display{
+    font-size: 125px;
+    margin: 10px;
+    padding: 10px;
+}
+
